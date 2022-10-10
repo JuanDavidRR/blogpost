@@ -1,3 +1,5 @@
 Hola Soy David Romero
 
 Soy desarrollador web y me encuentro tomando el curso de git
+
+Mido 1.70 así que soy re enano
