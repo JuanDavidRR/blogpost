@@ -1,1 +1,3 @@
 Hola Soy David Romero
+
+Soy desarrollador web y me encuentro tomando el curso de git
