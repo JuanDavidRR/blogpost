@@ -39,9 +39,18 @@ body {
 #container h1 {
   font-size: 20px;
 }
+
 #post {
-  background: white;
-  padding: 1em;
+  padding: 0rem 1rem 1rem;
+}
+
+#cabecera {
+  background-color: coral;
+  margin: 0;
+  padding: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.5rem;
 }
 
 #footer {
